@@ -84,18 +84,6 @@ Note: the package is installed as `scikit-learn` but imported as `sklearn`.
 
 ---
 
-## How the notebooks work
-
-- Fill in the code where you see `### START MODIFICATION ###` or `### ADD YOUR CODE HERE ###`.
-- Answer the questions in the **blue boxes**, ideally discussing them with a partner. Questions marked ★ are bonus questions.
-- The simulations and models use random numbers, so your results may differ slightly from your neighbours'. That is expected.
-
-## Solutions
-
-Notebooks with solutions and answers to the questions will be added to the `solutions/` folder after the sessions.
-
----
-
 ## Repository contents
 
 ```
