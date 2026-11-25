@@ -7,8 +7,8 @@ Material for the two hands-on sessions: Jupyter notebooks that run directly in y
 
 | Session | Topic | Open in Colab |
 |---|---|---|
-| 1 | Molecular dynamics and enhanced sampling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/Session1_MD_enhanced_sampling.ipynb) |
-| 2 | Ligand-based methods | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/Session2_ligand_based.ipynb) |
+| 1 | Molecular dynamics and enhanced sampling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/Session1_MD_enhanced_sampling.ipynb](https://github.com/alessiaghidini/molecular-simulations-for-drug-discovery-and-design/blob/main/MD_enhanced_sampling.ipynb)) |
+| 2 | Ligand-based methods | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/Session2_ligand_based.ipynb](https://github.com/alessiaghidini/molecular-simulations-for-drug-discovery-and-design/blob/main/ligand_based.ipynb)) |
 
 ---
 
