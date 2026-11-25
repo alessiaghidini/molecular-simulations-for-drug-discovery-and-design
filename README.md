@@ -95,6 +95,5 @@ Note: the package is installed as `scikit-learn` but imported as `sklearn`.
 
 ## Author and license
 
-Prepared by [Your name], [affiliation], for the workshop *Molecular simulations for drug discovery and design* (Bogotá, 2026).
+Prepared by Alessia Ghidini, EPFL, for the workshop *Molecular simulations for drug discovery and design* (Bogotá, 2026).
 
-[Choose a license, e.g. CC BY 4.0 for the teaching material.]
